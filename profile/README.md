@@ -4,7 +4,7 @@
 `This repo contains all projects developed by the Kitric team.`
 
 ## Who are Kitric
-`Kitric is a collaboration of software developers, working together to create software products, fully free and open.`
+`Kitric is a collaboration of software developers, working together to create fully free and open software products.`
 
 ## Kitric members
 <div>
