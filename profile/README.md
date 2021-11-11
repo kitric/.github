@@ -1,7 +1,7 @@
 ![Header](https://github.com/kitric/.github/blob/main/profile/kitric_header.png?raw=true)
 
-# The Kitric OSS repo
-`This org contains all projects developed by the Kitric team.`
+# Kitric OSS
+**open source software** developers.
 
 ## Who are Kitric
 `Kitric is a collaboration of software developers, working together to create fully free and open software products.`
